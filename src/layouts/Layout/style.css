@@ -54,7 +54,7 @@
   #top-bar .my-content {
     position: relative;
   
-    width: 32px;
+    width: 100px;
     height: 32px;
   
     background-image: url('/src/assets/images/user-profile.png');
